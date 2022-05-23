@@ -1,0 +1,6 @@
+SQLITE
+https://www.sqlite.org/download.html
+STARTER TEMPLATE
+https://github.com/eif-courses/databasesSQLiteStarter
+BABK EXAMPLE
+https://github.com/eif-courses/SQLiteBankAccountExample
