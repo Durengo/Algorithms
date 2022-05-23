@@ -1,0 +1,26 @@
+Create Console or GUI application in freely chosen topic.
+Down bellow you will find given algorithms which you should add to your application.  
+
+[ Use Linear and Binary searching techniques ]
+
+    search by keyword;
+
+    search by other properties [ for e.g.: age, name, average, country or any other ].
+
+-----------------------------------------------------------------------------------------------------
+[ Sorting algorithms ]
+
+Implement sorting algorithms to sort different data types for e.g.:
+
+    numbers;
+
+    alphabet;  
+    objects;
+
+----------------------------------------------------------------------------
+
+ [ Data Structures: Stack, Queue, Linked List ]
+
+Use data structures: Stack, Queue, Linked List and Dictionary or Map.
+For each different structure you must create separate functions
+and demonstrate real important case argue why you use in that situation.

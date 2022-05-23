@@ -1,0 +1,6 @@
+Given multiple CSV files minimum 3 mb – 50 mb. Sample data you can download from here:
+(http://exporter.nih.gov/crisp_catalog.aspx).
+Create any type Application which must read given files and detect which type column is for example
+(DATE, INT, FLOAT, CHAR, STRING, UNKNOWN, ENUM) for sample.CSV file.
+Important you must read whole file not First line only.
+Sometimes there is mixed info or empty fields which is change final result of column different type.
