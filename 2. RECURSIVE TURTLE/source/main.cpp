@@ -85,7 +85,11 @@ int main() {
 			  innerloop = false;
 			  break;
 			default:
-			  std::cout << "THE NUMBER AT INDEX: " << input << " is " << fib(input - 1);
+			  std::cout << "|";
+			  for(int i = 0; i < input; i++){
+				std::cout << fib(i) << " | ";
+			  }
+			 // std::cout << "THE NUMBER AT INDEX: " << input << " is " << fib(input - 1);
 			  std::cout << "\n\n\n";
 			  break;
 		  }
